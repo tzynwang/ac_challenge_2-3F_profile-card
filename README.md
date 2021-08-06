@@ -8,3 +8,6 @@
 ## 素材
 - [Figma設計稿](https://www.figma.com/file/e2P3u3m1pB6YABgcW8Xxzw/AC_CSS_challenge_202108)
 - [圖文部分](https://docs.google.com/document/d/1uCUYEqubhKhpHeRV3O4rKR0zVZOYZN7c_7-qghExaFg/edit#heading=h.wba57six3bsn)
+
+## 耗時
+從零開始整理素材至完全完成，約2.5小時
