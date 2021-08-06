@@ -1,0 +1,13 @@
+@mixin flex ($justify-content:flex-start, $align-items: stretch) {
+  display: flex;
+  justify-content: $justify-content;
+  align-items: $align-items;
+}
+
+@mixin text-overflow-ellipsis ($clamp-line) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $clamp-line;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
