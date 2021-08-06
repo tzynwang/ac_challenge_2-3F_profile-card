@@ -1,4 +1,5 @@
 # 加碼挑戰：個人資訊卡片
+展示網址：https://tzynwang.github.io/ac_challenge_2-3F_profile-card/
 
 ![card demo](./.README/card-demo.gif)
 
